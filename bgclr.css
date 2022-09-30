@@ -1,0 +1,27 @@
+/*.background-attachment
+ {
+    border: 15px dotted;
+     height: 500px;
+     background: url(C:/Users/Shyam/Desktop/parrOt1.jpg
+     );
+     
+     background-attachment: fixed;
+    
+
+}
+.background-color{
+        border: 15px dotted;
+        height: 500px;
+        background-color: chartreuse;
+
+}*/
+
+
+  .background-image{
+            border: 20px dOtted;
+            height:500px;
+            background-image:url(C:/Users/Shyam/Desktop/parrOt1.jpg);
+
+  }
+
+

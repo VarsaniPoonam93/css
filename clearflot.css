@@ -1,0 +1,26 @@
+.r-menu{
+   float: right;
+}
+ .flot-1{
+    float: left;
+
+ }
+   .main-menu{
+
+   /*   background-color :rgb(210, 161, 161);
+      line-height: 60px;
+      height: 60px;*/
+   }
+.clear{
+   clear: both;
+}
+
+   .grd{
+   height: 2px;
+  /* background: linear-gradient(Orange,white,green);*/
+ /*  background: linear-gradient(40deg,Orange,white,green);*/
+  /* background: radial-gradient(Orange,white,green);*/
+  background: radial-gradient(#2e2d2c,#dadada,white);
+border: 0;
+width: 80%;
+}

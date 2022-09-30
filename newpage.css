@@ -1,0 +1,46 @@
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration:none;
+
+}   
+.contener{
+   width: 90%;
+   margin: 0 auto;
+
+
+
+}
+   .rOw{
+
+        display: flex;
+        flex-wrap: wrap;
+
+   }  
+   .justify{
+        justify-content: space-between;
+   }
+   .align-items{
+        align-items: center;
+   }
+
+   .headertext ul li{
+       
+     display: inline-block;
+     background-color: black;
+     
+   }
+.lOgO img{
+     width: 50px;
+     border-radius: 50%;
+}
+
+ 
+  
+
+     
+

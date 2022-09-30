@@ -1,0 +1,28 @@
+a[title]{
+         border: 2px solid orangered;
+
+} 
+         
+a[href="https://www.tOps-int.cOm"] {
+
+              font-weight:bolder;
+}  
+
+
+a[href*=" examtle"]{
+
+                font-size: 2em;   
+
+}
+
+a[href$=".in"]{
+font-size: italic;
+background: linear-gradient(Orange,white,green);
+}
+
+
+a[class~="lOgO"]{
+   padding:2px ;
+   font-size: 36px;
+
+}

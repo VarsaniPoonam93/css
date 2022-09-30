@@ -1,0 +1,19 @@
+.p1{
+  /* list-style-type: none;*/
+  /*  list-style: inside;*/
+  list-style-image: url('D:/POONAM/images.png');
+}
+.p2{
+  list-style-image: url('D:/POONAM/aaa.jpg');
+   }
+
+   .h1{
+    list-style-image: url('D:/POONAM/pn2.png');
+  
+   }
+  
+    .h2{
+      list-style-image: url('D:/pn3.png');
+      list-style-position: inside;
+    }
+  

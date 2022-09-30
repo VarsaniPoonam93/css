@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+}
+div{
+   /*border: 1px solid;*/
+}
+.container{
+   width: 1500px;
+   margin: 0 auto;
+   background-color: #6c9894;
+
+}
+nav ul li {
+   display: inline-block;
+}
+nav ul li a{
+   padding: 35px;
+   text-decoration: none;
+   color: white;
+}
+header{
+   width: 1360px;
+   height: 46px;
+   background-color: #6c9994;
+}
+.logo{
+   width: 109PX;
+   height: 138PX;
+   margin-left: 15px;
+   background-color: #a7d7c5;
+   }
+   .logo img{
+      width: 100%;
+      
+   }
+   .col-50 img{
+      border-radius: 50%;
+      
+      padding: 65px;
+      background-image: url(C:/Users/Shyam/Downloads/shape.png);
+      
+   
+      
+   }.col-50{
+      width: 50%;
+   }
+   .txt-primary{
+      font-size: 100px;
+      letter-spacing: 1px;
+  color: #6c9894;
+  font-family: sans-serif;
+}
+
+   
+   .row{
+display: flex;
+
+
+}
+.line-100{
+   line-height: 200%
+   }
+  .main-menu{
+   vertical-align: middle;
+  }
+  .menu ul li a{
+   padding: 55px;
+   text-decoration: none;
+   color: white;
+   
+  }
+  .ml-a{
+   margin-left: auto;
+  }
+  .main-sec  p{
+   padding: auto;
+   margin: 0 240px;
+   
+  }
+  
+h3{
+  padding-top: 180px;
+  margin-left: 90px;
+}
+p{
+ margin: 0 70px;
+}
+.pt-55{
+  padding-top: 55px;
+} 
+
+.btn-primary{
+   padding: 5px 15px;
+   color: white;
+   background-color: #6c9894;
+   border-radius: 10px;
+   text-decoration: none;
+   text-transform: uppercase;
+   display: inline-block;
+   margin: 20px 340px;
+
+}
+
+h1{
+   text-align: center;
+   font-size: 75px;
+   color: #f4f9f4;
+   
+}
+ h5{
+   
+   text-align: center;
+
+margin: 0 430px;
+  font-size: 30px;
+   color: #f4f9f4;
+   font-weight: 400;
+   font-family: "Momtsserrat";
+}
+.para img{
+ border-radius:50%;
+ padding: 30px;
+background-image:url(C:/Users/Shyam/Downloads/shape9.png);
+margin: 20px;
+}
+.shape-1{
+      width: 100px;
+}

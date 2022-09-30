@@ -1,0 +1,62 @@
+.fntfamaly{
+
+        /* font-family: serif;*/
+         color:gray;
+         font-family: sans-serif;
+}
+
+.fnt-size-em{
+      /* font-size: 3em;         
+       color: blue;*/
+}
+
+.fnt-size-rem{
+            /* font-size: 5rem;
+             color: green;*/
+}
+.fnt-size-px{
+       /*font-size: 25px;       
+       color: blueviolet;*/
+
+}
+
+.fnt-size-per{
+
+     font-size: 250;
+     color:brown;
+
+}
+
+  .fnt-size-in{
+          font-size: 1in;
+
+  }
+  .fnt-size-cm{
+        font-size: 2cm;
+        color: aquamarine;
+  }
+
+  .fnt-style{
+            /*  font-style: italic;
+              color: tomato;
+              font-style: normal;*/
+              font-style: oblique 20deg;
+  }
+   
+  .fnt-variant{
+           font-variant: small-caps;
+           color: red;
+            /* font-variant: initial;
+             color: turquoise;*/
+             
+  }
+
+  .fnt-weight{
+          font-weight: 400;              
+
+  }
+      .line-height{
+           line-height: 40px;
+           font-style: italic;
+           color:teal;
+  }       

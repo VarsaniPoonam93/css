@@ -1,0 +1,278 @@
+	h1 {
+	  font-family: serif;
+	  font-style: italic;
+	  font-style: oblique 10deg;
+	}
+
+	H3 {
+
+	  text-align: center;
+	  font-weight: lighter;
+	}
+
+	H5 {
+	  text-align: center;
+	  margin-bottom: 15px;
+	}
+
+	h4 {
+	  font-size: 25px;
+	  font-weight: lighter;
+
+
+	}
+
+	.grd {
+	  height: 1px;
+	  background: radial-gradient(#2e2d2c, #dadada, white);
+	  border: 0;
+	  width: 70%;
+	}
+
+	.txt1 {
+	  float: left;
+	  width: 35%;
+	  padding-left: 50px;
+	  margin-left: 130px;
+	  font-size: large;
+	  text-align: justify;
+
+	}
+
+	.txt2 {
+	  float: right;
+	  width: 35%;
+	  padding-right: 160px;
+	  font-size: large;
+	  text-align: justify;
+
+
+	}
+
+	.txt3 {
+
+	  float: left;
+	  width: 35%;
+	  padding-left: 50px;
+	  margin-left: 130px;
+	  font-size: large;
+	  text-align: justify;
+	}
+
+	.txt4 {
+	  float: right;
+	  width: 35%;
+	  padding-right: 160px;
+	  font-size: large;
+	  text-align: justify;
+	}
+
+	.txt5 {
+	  float: left;
+	  width: 35%;
+	  padding-left: 50px;
+	  margin-left: 130px;
+	  font-size: large;
+	  text-align: justify;
+
+	}
+
+
+	.box {
+	  float: right;
+	  padding-right: 500PX;
+
+
+	}
+
+	.buttn {
+	  float: right;
+	  padding-right: 400px;
+
+	}
+
+	.check {
+
+	  float: right;
+	  padding-right: 100px;
+	  margin-right: 8px;
+	  margin: auto;
+
+
+	}
+
+	.d1{
+		display: flex;
+	}
+
+	.TEXT6 {
+
+	  float: right;
+	  padding-right: 80px;
+	  margin-right: 5px;
+	}
+
+	.grid {
+	  height: 1px;
+	  background: radial-gradient(#2e2d2c, #dadada, white);
+	  border: 0;
+	  width: 70%;
+	}
+
+	.h5 {
+	  width: 60%;
+	  margin: auto;
+	  font-size: large;
+	}
+
+	.gri {
+	  height: 1px;
+	  background: radial-gradient(#2e2d2c, #dadada, white);
+	  border: 0;
+	  width: 70%;
+
+	}
+
+
+
+	.h6 {
+	  width: 60%;
+	  margin: auto;
+	  font-size: large;}
+	  a,link{
+		color: red;
+	  }
+	  
+	  .div{
+      float: left;
+		margin-left: 240px;
+		padding-bottom:2EM;}
+
+		.DIV1{
+			float: left;
+			margin-left:10px;
+			padding-bottom: 2em;
+		}
+
+		.div2{
+			float: left;
+			margin-left: 10px;
+			padding-bottom: 2em;
+      }
+
+		.gri4{
+			height: 1px;
+			background: radial-gradient(#2e2d2c, #dadada, white);
+			border: 0;
+			width: 70%;	
+		}
+
+		  .H7{
+			 font-size: large;
+			 margin-left: 180px;	
+			 margin-right: 180px;
+			 text-align: center;
+			 }
+
+       .h8{
+			  text-align: center;
+			  	font-size: large;	}
+        
+		.gri5{
+			height: 1px;
+			background: radial-gradient(#2e2d2c, #dadada, white);
+			border: 0;
+			width: 70%;	  }
+		  .h8{
+     
+	    word-spacing: 10px;
+		 text-decoration: underline;
+		 
+		  }
+		  .gri6{
+			height:1px;
+	      background: radial-gradient(#2e2d2c, #dadada, white);
+			border: 0;
+			width: 70%;	
+		  }
+		   .gri7{
+				height: 1px;
+				background: radial-gradient(#2e2d2c, #dadada, white);
+				border: 0;
+				width: 70%;
+			}
+				
+			.h9{
+				float: left;
+			 font-size: large;			
+			 margin-left: 230px;
+			 
+			}
+		   .h10{
+				float: left;
+				margin-left: 230px;
+				margin-right: 230px;
+				 text-align: justify;
+				 font-weight: lighter;
+			}
+         .h11{
+				  float: left;
+				  font-size: large;
+				  margin-left: 230px;
+			}
+         .h12{
+				 float: left;
+				 margin-left: 230px;
+				 margin-right: 230px;
+				 text-align: justify;
+				 font-weight: lighter;
+			}
+          .h13{
+				  float: left;
+				  font-size: large;
+				  margin-left:230px;
+			 }
+           .h14{
+				    float: left;
+					 margin-left: 230px;
+					 margin-right: 230px;
+					 text-align: justify;
+					 font-weight: lighter; }
+
+            .h15{
+					float: left;
+					font-size: large;
+					margin-left: 230px;
+				}
+				.h16{
+					float: left;
+					margin-left: 230px;
+					margin-right: 230px;
+					text-align: justify;
+					font-weight: lighter;
+				}
+				.h17{
+					float: left;
+					font-size: large;
+					margin-left: 230px;
+				}
+				 .h18{
+					 float: left;
+					 margin-left: 230px;
+					 margin-right: 230px;
+					 text-align: justify;
+					 font-weight: lighter;
+				 }
+				 .gri8{
+					height: 1px;
+					background: radial-gradient(#2e2d2c, #dadada, white);
+					border: 0;
+					width: 70%;
+				 }
+				 .flex{
+					display: flex;
+				 }
+				 .name{
+					font-weight: lighter;
+				text-decoration: underline none;
+				 }

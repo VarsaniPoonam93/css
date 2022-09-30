@@ -1,0 +1,59 @@
+a:link {
+      background-color: aqua;
+      font-style: italic;
+
+ }
+
+   button:hover{
+          color: rgb(196, 98, 98);
+         background-color:blue
+         margin: 20px;
+         padding: 15px;
+
+   }
+ input:focus {
+
+    background-color:red;
+    outline: 2px dotted chartreuse;
+   
+ }    
+    
+ p:active{
+       color: aqua;
+       font-size: large; 
+
+ }
+
+a:visited { 
+        background-color:brown;
+        font-style: italic;
+
+}
+
+p::first-line{
+   color:red;
+   text-transform: uppercase;
+   font-weight:bold;
+}
+
+h2::after,h2::before{
+    content:"......";
+    color: blue;
+
+}
+
+p::first-letter{
+   color: brown;
+   font-size: 2em;
+
+}
+
+
+
+
+
+
+
+
+
+

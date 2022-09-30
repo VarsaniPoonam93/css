@@ -1,0 +1,45 @@
+* {
+ box-sizing: border-box;
+}
+
+.container {
+  width:900px;
+  margin:  33px auto;
+  border:3px solid purple;
+  background-color: wheat
+}
+p, h3{
+text-align: justify;
+}
+
+h1{
+margin: 23px auto;
+width: 455px;
+
+}
+.item{
+   border: 5px solid gray;
+   margin: 12px 3px;
+   padding: 12px 3px;
+   background:rgb(228, 206, 206)
+}
+
+#fruits{
+ float: left;
+ width: 48%;
+
+}
+#stationary{
+ float: left;
+ width: 48%;
+}
+ #vagetables{
+/*float: left;*/
+    width: 100%;
+    clear: both;
+    clear: left;
+    
+
+ }
+
+ 
