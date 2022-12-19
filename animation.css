@@ -1,0 +1,105 @@
+.container{
+    background-color: khaki;
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.box{
+  width: 250px;  
+  height: 250px;
+  background-color: cornflowerblue;
+  border-radius: 25%;margin: 0 20px;
+}
+.box:hover{
+    transform: translate(200px);
+    /* transition: all 5s ease; */
+    /* transition: all 5s ease-in; */
+    /* transition: all 10s ease-out; */
+    /* transition: all 10s ease-in-out; */
+    /* transform: rotate(360deg); */
+}
+.box1{
+    width: 250px;  
+  height: 250px;
+  background-color: palevioletred;
+  border-radius: 25%;
+margin: 0 20px;
+  transition: all 10s ease;
+  
+}
+.box1:hover{
+    /* transform: translatey(200px); */
+    /* transform: rotate(360deg); */
+    transform: rotatey(360deg);
+/* transform: scale(2); */
+    /* transform: scalex(2); */
+    /* transform: scaley(2); */
+    transform: skew(360deg);
+    /* transform: matrix(1,2,3,4,5,6); */
+}
+.box2{
+    width: 250px;  
+    height: 250px;
+    background-color: rgb(86, 69, 69);
+    border-radius: 25%;
+     margin: 0px 20px;
+    transition: all 5s ease;
+    
+    
+    }
+    .sec1{
+        background-color:darkgrey;
+    }
+    .box3{
+        width: 250px;
+        height: 200px;
+        background-color: brown;
+        position: relative;
+        animation-name: poonam;
+        /* animation-duration: 5s; */
+        /* animation-iteration-count: 3; */
+        /* animation-iteration-count: infinite; */
+        /* animation-direction: alternate; */
+        /* animation-direction: reverse; */
+        animation-delay: 3s;
+
+
+    }
+
+@keyframes poonam{
+   from{
+    width: 250px;
+   }
+   to{
+    width: 1100px;
+   }
+     
+}
+.box4{
+        width: 250px;
+        height: 200px;
+        background-color:yellow;
+        position: relative;
+        animation-name: reeva;
+        animation-duration: 5s; 
+        animation-delay: 3s;
+}
+@keyframes reeva{
+    0%{
+     top: 200px;
+     left: 200px;
+}
+    25%{
+        top: 0px;
+        left: 200px;
+    }
+    50%{
+        top: 200px;
+        left: 200px;
+    }
+} 
